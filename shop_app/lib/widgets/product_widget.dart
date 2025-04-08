@@ -94,7 +94,7 @@ class ProductWidget extends StatelessWidget {
                   Row(
                     children: <Widget>[
                       const Icon(
-                        Icons.work,
+                        Icons.shopping_basket,
                       ),
                       const SizedBox(
                         width: 6,
